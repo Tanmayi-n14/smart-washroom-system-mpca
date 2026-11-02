@@ -63,9 +63,9 @@ void loop() {
   else digitalWrite(moistureLED, LOW);
 
   // 3. LCD PRIORITY DISPLAY
-  // Line 1: Team SRNs
+  // Line 1: Author SRN
   lcd.setCursor(0, 0);
-  lcd.print("SRN:493 525 547 ");
+  lcd.print("SRN:493         ");
 
   // Line 2: Priority Alerts
   lcd.setCursor(0, 1);
