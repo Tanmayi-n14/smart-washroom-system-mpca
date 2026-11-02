@@ -1,0 +1,64 @@
+The Power Foundation
+5V Pin (Arduino) to Red Rail (+) on Breadboard
+
+GND Pin (Arduino) to Blue Rail (-) on Breadboard
+
+Power Bridge: Connect the Top Red Rail to Bottom Red Rail
+
+Ground Bridge: Connect the Top Blue Rail to Bottom Blue Rail
+
+1. Ultrasonic Sensor (Occupancy/Lights)
+VCC to Red Rail (+)
+
+GND to Blue Rail (-)
+
+Trig to Digital Pin 9
+
+Echo to Digital Pin 10
+
+2. Gas Sensor (Odor Detection)
+VCC to Red Rail (+)
+
+GND to Blue Rail (-)
+
+A0 (Signal) to Analog Pin A0
+
+3. Leakage Sensor (Module + Probe)
+VCC to Red Rail (+)
+
+GND to Blue Rail (-)
+
+A0 (Signal) to Analog Pin A1
+
+Probe Connection: Use the 2 Female-to-Female wires to connect the "Fork" probe to the module pins.
+
+4. IR Sensor (Touchless Tap)
+VCC to Red Rail (+)
+
+GND to Blue Rail (-)
+
+OUT to Digital Pin 2
+
+5. Buzzer (Safety Alarm)
+Long Leg (+) to Digital Pin 8
+
+Short Leg (-) to Blue Rail (-)
+
+6. Room Light LED (Occupancy)
+Long Leg (+) to Digital Pin 13
+
+Short Leg (-) to Resistor to Blue Rail (-)
+
+7. Leakage Warning LED
+Long Leg (+) to Digital Pin 12
+
+Short Leg (-) to Resistor to Blue Rail (-)
+
+8. LCD Screen (The Display)
+GND to Blue Rail (-)
+
+VCC to Red Rail (+)
+
+SDA to Analog Pin A4
+
+SCL to Analog Pin A5
