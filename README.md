@@ -79,7 +79,10 @@ smart-washroom-arduino-system/
 
 ---
 
-## 👤 Author
+## 👥 Team Members
 
-* **Tanmayi Nagabhairava** ([@Tanmayi-n14](https://github.com/Tanmayi-n14)) — `PES1UG24CS493`
-* Department of Computer Science & Engineering, PES University
+| Member | SRN | Department |
+| :--- | :--- | :--- |
+| **Tanmayi Nagabhairava** | `PES1UG24CS493` | Computer Science & Engineering, PES University |
+| **Vennela Shakthi** | `PES1UG24CS525` | Computer Science & Engineering, PES University |
+| **Yuvraj Pateria** | `PES1UG24CS547` | Computer Science & Engineering, PES University |
